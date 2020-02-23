@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/open"
+        android:title="打开蓝牙"></item>
+    <item
+        android:id="@+id/scan"
+        android:title="扫描设备"></item>
+    <item
+        android:id="@+id/disconnect"
+        android:title="断开连接"></item>
+
+
+</menu>

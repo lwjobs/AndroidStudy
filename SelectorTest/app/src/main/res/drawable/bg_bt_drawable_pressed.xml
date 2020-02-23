@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    corners用于定义圆角-->
+    <corners android:radius="20dp" />
+<!--    stroke是描边属性，可以定义描边的宽度，颜色，虚实线等-->
+    <stroke
+        android:width="10dp"
+        android:color="@android:color/holo_blue_light"
+        android:dashGap="10dp" />
+<!-- gradient用以定义渐变色，可以定义两色渐变和三色渐变，及渐变样式-->
+    <gradient
+        android:startColor="@android:color/holo_green_light"
+        android:centerColor="@android:color/holo_red_light"
+        android:endColor="@android:color/holo_green_light" />
+</shape>
