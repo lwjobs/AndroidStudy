@@ -55,4 +55,7 @@ SelectorTest: 背景布局
 
 SimpleView：简单UI控件
 
+ViewBindingTest：视图绑定，需要运行在Android Studio 3.6.0以上版本
+
 ViewPagerTest：ViewPager
+
