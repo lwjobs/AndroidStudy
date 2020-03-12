@@ -6,9 +6,9 @@ Android学习仓库，主要面向零基础安卓学习者，硬件开发人员�
 配套课程：https://www.icourse163.org/course/JSSVC-1449806164
 
 #### 开发环境
-Android Studio 3.5.3
+Android Studio 3.5.3或3.6.1
 
-gradle-5.4.1
+gradle-5.4.1或5.6.4
 
 compileSdkVersion 29
 
