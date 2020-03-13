@@ -9,6 +9,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import cn.edu.jssvc.viewbindingtest.databinding.ActivityMainBinding;
 
+/**
+ * @author lwjobs
+ * @配套课程 https://www.icourse163.org/course/JSSVC-1449806164
+ * @version 1.0
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
