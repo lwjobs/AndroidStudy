@@ -21,9 +21,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 //        setContentView(R.layout.activity_main);
 
-        LayoutInflater layoutInflater = LayoutInflater.from(this);
+//        LayoutInflater layoutInflater = LayoutInflater.from(this);
+//        ActivityMainBinding binding = ActivityMainBinding.inflate(layoutInflater);
 
-        ActivityMainBinding binding = ActivityMainBinding.inflate(layoutInflater);
+        ActivityMainBinding binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
         binding.text.setText("文字已变化");
