@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartHome</string>
+    <string name="server_ip_text">106.14.8.5</string>
+    <string name="server_port_text">1234</string>
+</resources>
