@@ -55,6 +55,8 @@ NFCApp: NFC卡读写
 
 SelectorTest: 背景布局
 
+SharedPreferencesTest: SharedPreferences的读写
+
 SimpleView：简单UI控件
 
 SmartHome：智能家居
