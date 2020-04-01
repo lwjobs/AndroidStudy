@@ -51,6 +51,8 @@ HelloAndroid: 第一个Android应用，Logcat的使用
 
 Layout: Layout布局
 
+Login: Login登录页面练习
+
 NFCApp: NFC卡读写
 
 SelectorTest: 背景布局
