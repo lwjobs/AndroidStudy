@@ -3,7 +3,8 @@
 #### 介绍
 Android学习仓库，主要面向零基础安卓学习者，硬件开发人员，单片机软件开发人员等
 
-配套课程：https://www.icourse163.org/course/JSSVC-1449806164
+配套课程（内有QQ群答疑）：https://www.icourse163.org/course/JSSVC-1449806164
+
 
 #### 开发环境
 Android Studio 3.5.3或3.6.1
@@ -51,7 +52,7 @@ HelloAndroid: 第一个Android应用，Logcat的使用
 
 Layout: Layout布局
 
-Login: Login登录页面练习
+Login：登录页面的练习
 
 NFCApp: NFC卡读写
 
