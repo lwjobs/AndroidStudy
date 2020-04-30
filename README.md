@@ -40,6 +40,8 @@ AdvancedView：高级UI控件
 
 	--ListViewTest：ListView的使用
 
+	--RecyclerViewTest:RecyclerView的使用
+
 AndroidThread：线程
 
 	--HandleMessage：Handler基本操作
