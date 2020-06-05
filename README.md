@@ -54,7 +54,7 @@ HelloAndroid: 第一个Android应用，Logcat的使用
 
 Layout: Layout布局
 
-Login：登录页面的练习
+Login：登录页面的综合练习，包括约束布局、TextView、ProgressBar、EditText、CheckBox、SharedPreferences、Thread、runOnUiThread等
 
 NFCApp: NFC卡读写
 
